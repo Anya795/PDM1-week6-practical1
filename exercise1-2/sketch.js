@@ -31,3 +31,4 @@ function keyPressed(){
 }
 
     }
+textFont(currentFont);
